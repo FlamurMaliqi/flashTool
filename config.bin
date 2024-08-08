@@ -1,0 +1,9 @@
+Host root
+  HostName 10.10.0.101
+  User root
+  Password root
+
+Host recovery
+  HostName 10.10.0.100
+  User root
+  Password root

@@ -1,0 +1,52 @@
+2024-04-18 13:14:01,707 [INFO] Connected (version 2.0, client dropbear_2020.81)
+2024-04-18 13:14:01,915 [INFO] Authentication (password) successful!
+2024-04-18 13:14:05,069 [INFO] Command cd /etc/module-app/ output: b''
+2024-04-18 13:14:06,474 [INFO] File afr_bsw_model 2.a2l uploaded successfully to /etc/module-app/
+2024-04-18 13:16:29,527 [INFO] Connected (version 2.0, client dropbear_2020.81)
+2024-04-18 13:16:29,688 [INFO] Authentication (password) successful!
+2024-04-18 13:18:45,114 [INFO] Command cd /etc/module-app/ output: b''
+2024-04-18 13:18:46,418 [INFO] File fastlog.a2l uploaded successfully to /etc/module-app/
+2024-04-18 13:27:34,681 [INFO] Connected (version 2.0, client dropbear_2020.81)
+2024-04-18 13:27:34,834 [INFO] Authentication (password) successful!
+2024-04-18 13:28:19,713 [INFO] Command cd /etc/module-app/ output: b''
+2024-04-18 13:28:20,918 [INFO] File fastlog.a2l uploaded successfully to /etc/module-app/
+2024-04-18 13:31:48,525 [INFO] Exception during user input: Empty password entry or password input canceled.
+2024-04-18 13:43:08,815 [INFO] Connected (version 2.0, client dropbear_2020.81)
+2024-04-18 13:43:08,973 [INFO] Authentication (password) successful!
+2024-04-18 13:43:26,318 [INFO] Command cd /etc/module-app/ output: b''
+2024-04-18 13:43:27,480 [INFO] File fastlog.a2l uploaded successfully to /etc/module-app/
+2024-04-18 13:43:51,902 [INFO] Connected (version 2.0, client dropbear_2020.81)
+2024-04-18 13:43:52,038 [INFO] Authentication (password) successful!
+2024-04-18 13:44:23,550 [ERROR] Socket exception: Eine vorhandene Verbindung wurde vom Remotehost geschlossen (10054)
+2024-04-18 13:46:17,646 [INFO] SSH Session is not alive, scp client can not be created.
+2024-04-18 13:46:46,946 [INFO] Connected (version 2.0, client dropbear_2020.81)
+2024-04-18 13:46:47,106 [INFO] Authentication (password) successful!
+2024-04-18 13:46:55,458 [INFO] Command cd /media/data/ output: b''
+2024-04-18 13:46:55,511 [INFO] Command rm /media/data//*.raucb output: b''
+2024-04-18 13:46:55,512 [ERROR] Command rm /media/data//*.raucb output error: b''
+2024-04-18 13:47:10,971 [INFO] Filesize on system: 111671952
+2024-04-18 13:47:10,971 [INFO] Filesize on target: 111671952
+2024-04-18 13:47:11,069 [INFO] Command raubc status mark-active recovery.0 output: b''
+2024-04-18 13:47:11,069 [ERROR] Command raubc status mark-active recovery.0 output error: b'sh: line 1: raubc: command not found\n'
+2024-04-18 13:47:11,229 [INFO] Command /sbin/reboot output: b''
+2024-04-18 13:47:11,229 [ERROR] Command /sbin/reboot output error: b''
+2024-04-18 13:47:50,683 [INFO] Connected (version 2.0, client dropbear_2020.81)
+2024-04-18 13:47:50,783 [INFO] Authentication (password) successful!
+2024-04-18 13:48:11,400 [INFO] Connected (version 2.0, client dropbear_2020.81)
+2024-04-18 13:48:11,567 [INFO] Authentication (password) successful!
+2024-04-18 13:52:53,718 [ERROR] Socket exception: Eine vorhandene Verbindung wurde vom Remotehost geschlossen (10054)
+2024-04-18 13:52:53,719 [ERROR] Socket exception: Eine vorhandene Verbindung wurde vom Remotehost geschlossen (10054)
+2024-04-18 14:00:06,903 [INFO] Connected (version 2.0, client dropbear_2020.81)
+2024-04-18 14:00:07,090 [INFO] Authentication (password) successful!
+2024-04-18 14:00:30,833 [INFO] Command cd /media/data/ output: b''
+2024-04-18 14:00:30,893 [INFO] Command rm /media/data//*.raucb output: b''
+2024-04-18 14:00:30,893 [ERROR] Command rm /media/data//*.raucb output error: b''
+2024-04-18 14:00:46,833 [INFO] Filesize on system: 110623395
+2024-04-18 14:00:46,834 [INFO] Filesize on target: 110623395
+2024-04-18 14:00:46,924 [INFO] Command raubc status mark-active recovery.0 output: b''
+2024-04-18 14:00:46,925 [ERROR] Command raubc status mark-active recovery.0 output error: b'sh: line 1: raubc: command not found\n'
+2024-04-18 14:00:47,116 [INFO] Command /sbin/reboot output: b''
+2024-04-18 14:00:47,116 [ERROR] Command /sbin/reboot output error: b''
+2024-04-18 14:01:28,534 [INFO] Connected (version 2.0, client dropbear_2020.81)
+2024-04-18 14:01:28,713 [INFO] Authentication (password) successful!
+2024-04-18 14:02:12,924 [ERROR] Socket exception: Eine vorhandene Verbindung wurde vom Remotehost geschlossen (10054)
