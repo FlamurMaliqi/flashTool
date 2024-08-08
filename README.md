@@ -1,4 +1,4 @@
-# Audi Sport | Flash GUI tool
+# Flash GUI tool
 Tool with graphical user interface for simple update process.
 
 ## System requirements
